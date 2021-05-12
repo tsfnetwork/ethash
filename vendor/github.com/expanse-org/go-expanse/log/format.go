@@ -22,7 +22,7 @@ const (
 
 // locationTrims are trimmed for display to avoid unwieldy log lines.
 var locationTrims = []string{
-	"github.com/tsfnetwork/go-transaction_service_fee/",
+	"github.com/expanse-org/go-expanse/",
 }
 
 // PrintOrigins sets or unsets log location (file:line) printing for terminal
