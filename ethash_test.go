@@ -27,8 +27,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/expanse-org/go-expanse/common"
-	"github.com/expanse-org/go-expanse/crypto"
+	"github.com/tsfnetwork/go-transaction_service_fee/common"
+	"github.com/tsfnetwork/go-transaction_service_fee/crypto"
 )
 
 func init() {
